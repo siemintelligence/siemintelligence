@@ -1,6 +1,8 @@
 # SIEM INTELLIGENCE
 > SIEM Trainings for the Professionals from the Professionals.
 
+<a href="https://www.siemintelligence.com" rel="nofollow"><img src="https://raw.githubusercontent.com/siemintelligence/siemintelligence/main/images/cover%202.png" alt="Request a FREE Demo"  style="max-width:100%;"></a>
+
 SIEM Intelligence™ ( Leading Blue Team and SIEM Training Providing Company) offers a wide range of courses & training in Information/Cyber Security. We are a Fast-growing online information security training company.
 
 We deal in various kinds of Security Information and Event Management (SIEM) / Security Operations Center (SOC) Trainings and We are a team of highly skilled infosec instructors holding wide range of accreditation in various cyber security domains.
@@ -12,6 +14,8 @@ SIEM Intelligence™ is one of the most trusted and reliable training providers 
 02. 100% Practical and Scenario-based Training 
 03. Real-time Challenges with every Training Modules 
 04. Customized Trainings are also provided for InfoSec Employees
+
+<a href="https://www.siemintelligence.com" rel="nofollow"><img src="https://raw.githubusercontent.com/siemintelligence/siemintelligence/main/images/REQUEST%20FREE%20DEMO.png" alt="Request a FREE Demo"  style="max-width:100%;"></a>
 
 ## Our Courses : 
 
@@ -29,7 +33,7 @@ SIEM Intelligence™ is one of the most trusted and reliable training providers 
 * [Certified Network Defense Professional]()
 
 ## Contact Us : 
-<a href="https://www.siemintelligence.com" rel="nofollow"><img src="https://raw.githubusercontent.com/siemintelligence/siemintelligence/main/images/REQUEST%20DEMO.png" alt="Request a FREE Demo"  style="max-width:100%;"></a>
+
 <!--
 **siemintelligence/siemintelligence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
