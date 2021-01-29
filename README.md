@@ -1,19 +1,26 @@
 # SIEM INTELLIGENCE
 
-### Our Courses : 
+SIEM Intelligence™ ( Leading Blue Team and SIEM Training Providing Company) offers a wide range of courses & training in Information/Cyber Security. We are a Fast-growing online information security training company.
 
-01. [Certified SOC Experts]()
-02. [Certified QRadar Analyst]()
-03. [Certified Splunk ESM Analyst]()
-04. [Certified Snort Professional]()
-05. [Certified Cyber Threat Hunter]()
-06. [Certified PfSense Professional]()
-07. [Certified Mitre Att&ck Training]()
-08. [Certified Digital Forensic Expert]()
-09. [Certified YARA Rules Professional]()
-10. [Certified Incident Response Handler]()
-11. [Certified Web Application Secure Coder]()
-12. [Certified Network Defense Professional]()
+We deal in various kinds of Security Information and Event Management (SIEM) / Security Operations Center (SOC) Trainings and We are a team of highly skilled infosec instructors holding wide range of accreditation in various cyber security domains.
+
+SIEM Intelligence™ is one of the most trusted and reliable training providers in information/cybersecurity, providing exceptional unmatched Hands-on practical training to individuals and corporates worldwide. Our goal is to train, mentor, and support your career in cybersecurity.
+
+
+## Our Courses : 
+
+* [Certified SOC Experts]()
+* [Certified QRadar Analyst]()
+* [Certified Splunk ESM Analyst]()
+* [Certified Snort Professional]()
+* [Certified Cyber Threat Hunter]()
+* [Certified PfSense Professional]()
+* [Certified Mitre Att&ck Training]()
+* [Certified Digital Forensic Expert]()
+* [Certified YARA Rules Professional]()
+* [Certified Incident Response Handler]()
+* [Certified Web Application Secure Coder]()
+* [Certified Network Defense Professional]()
 
 
 <!--
