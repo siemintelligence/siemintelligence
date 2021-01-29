@@ -1,7 +1,7 @@
 # SIEM INTELLIGENCE
 > SIEM Trainings for the Professionals from the Professionals.
 
-<a href="https://www.siemintelligence.com" rel="nofollow"><img src="https://raw.githubusercontent.com/siemintelligence/siemintelligence/main/images/cover%202.png" alt="Request a FREE Demo"  style="max-width:100%;"></a>
+<a href="https://www.siemintelligence.com" rel="nofollow"><img src="https://raw.githubusercontent.com/siemintelligence/siemintelligence/main/images/SIEM%20Intelligence%20Cover.jpeg" alt="Request a FREE Demo"  style="max-width:100%;"></a>
 
 SIEM Intelligence™ ( Leading Blue Team and SIEM Training Providing Company) offers a wide range of courses & training in Information/Cyber Security. We are a Fast-growing online information security training company.
 
