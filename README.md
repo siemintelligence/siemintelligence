@@ -7,6 +7,11 @@ We deal in various kinds of Security Information and Event Management (SIEM) / S
 
 SIEM Intelligence™ is one of the most trusted and reliable training providers in information/cybersecurity, providing exceptional unmatched Hands-on practical training to individuals and corporates worldwide. Our goal is to train, mentor, and support your career in cybersecurity.
 
+### Why should you join us ?
+01. Experienced InfoSec Instructors 
+02. 100% Practical and Scenario-based Training 
+03. Real-time Challenges with every Training Modules 
+04. Customized Trainings are also provided for InfoSec Employees
 
 ## Our Courses : 
 
@@ -23,6 +28,7 @@ SIEM Intelligence™ is one of the most trusted and reliable training providers 
 * [Certified Web Application Secure Coder]()
 * [Certified Network Defense Professional]()
 
+## Contact Us : 
 
 <!--
 **siemintelligence/siemintelligence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
