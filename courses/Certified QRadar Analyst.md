@@ -5,8 +5,11 @@
 
 
 The IBM QRadar Security Intelligence Platform provides a unified architecture of integrated functions with a single Security Operations Center user interface. Capabilities presented include detection and response to attacks, security analytics, threat hunting, incident response, and threat intelligence with network and endpoint protection.
+
 The Certified QRadar Analyst (CQA) provides deep visibility into the networks, users and applications activity. QRadar provides collection, normalization, correlation, secure storage of events, flows, asset profiles, vulnerabilities and QRadar SIEM classifies suspected attacks and policy violations as offences.
+
 Participants will learn about QRadar Rules and Offenses, which helps detect IT security issues in your organization. These trainings demonstrates how to use searches and analyze potential incidents. 
+
 Participants also learn about user interface and investigation of offences. Participants can search, analyze and investigate suspicious activities.
 There are many aspects to tuning your QRadar configuration. The training in this group introduces you to some basic tuning tasks to improve your investigations and lab exercises provided to allow Participants insight into the IT Security Analyst operating QRadar platform's routine work.
 
