@@ -19,7 +19,7 @@ SIEM Intelligence™ is one of the most trusted and reliable training providers 
 
 ## Our Courses : 
 
-* [Certified SOC Expert](/blob/main/courses/Certified%20SOC%20Expert.md)
+* [Certified SOC Expert](/courses/Certified%20SOC%20Expert.md)
 * [Certified QRadar Analyst]()
 * [Certified Splunk ES Analyst]()
 * [Certified Snort Professional]()
