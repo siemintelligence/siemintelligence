@@ -20,11 +20,11 @@ SIEM Intelligence™ is one of the most trusted and reliable training providers 
 ## Our Courses : 
 
 * [Certified SOC Expert](/courses/Certified%20SOC%20Expert.md)
-* [Certified QRadar Analyst]()
+* [Certified QRadar Analyst](/courses/Certified%20QRadar%20Analyst.md)
 * [Certified Splunk ES Analyst]()
-* [Certified Snort Professional]()
+* [Certified Snort Professional](/courses/Certified%20Snort%20Professional.md)
 * [Certified Cyber Threat Hunter]()
-* [Certified PFsense Professional]()
+* [Certified PFsense Professional](/courses/Certified%20pfSense%20Professional.md)
 * [Certified Mitre Att&ck Training]()
 * [Certified Digital Forensic Expert]()
 * [Certified YARA Rules Professional]()
